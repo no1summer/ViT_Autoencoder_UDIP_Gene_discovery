@@ -2,7 +2,7 @@
 This is the official repository accompanying the above paper.  
 
 **Authors:**
-**Samia Islam, Wei He, Ziqian Xie, Degui Zhi**
+**Samia Islam, Tian Xia, Wei He, Ziqian Xie, Degui Zhi**
 
 ## Overview  
 We use a vision transformer auto-encoder (ViT-AE) model to extract endophenotypes from brain imaging and conduct GWAS on UK Biobank (UKBB). 
@@ -65,11 +65,6 @@ UKBB data was accessed via approved project 24247.
 
 ## Acknowledgements
 This work was supported by grants from the National Institute on Aging U01AG070112 and R01AG081398. 
-
-## How to Cite:
-Islam, S., He, Wei, Xie, Z., & Zhi, D. (2025). Vision Transformer Autoencoders for Unsupervised Representation Learning: 
-Revealing Novel Genetic Associations through Learned Sparse Attention Patterns. 
-MedRxiv. [https://doi.org/10.1101/2025.03.24.25324549](https://doi.org/10.1101/2025.03.24.25324549)
 
 ## Warning
 This repo is for research purpose. Using it at your own risk.
